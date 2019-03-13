@@ -8,7 +8,7 @@ namespace WindowsFormsApp3
 {
     class Class1
     {
-        public Class1(int a)
+        public Class1(int a, int b)
         {
 
         }
